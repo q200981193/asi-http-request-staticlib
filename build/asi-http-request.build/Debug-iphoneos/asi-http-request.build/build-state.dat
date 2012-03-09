@@ -1,0 +1,924 @@
+Tasi-http-request
+v4
+r1
+cCheck dependencies
+cProcessPCH /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-giduvcwpgpwaoearziwsvmuqpeoq/asi-http-request-Prefix.pch.pth asi-http-request/asi-http-request-Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-dddhjvyvqbkzdbapymtlzhfkjmsn/asi-http-request-Prefix.pch.pth asi-http-request/asi-http-request-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIAuthenticationDialog.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIAuthenticationDialog.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDataCompressor.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataCompressor.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDataDecompressor.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataDecompressor.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDownloadCache.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDownloadCache.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIFormDataRequest.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIFormDataRequest.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIHTTPRequest.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIHTTPRequest.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIInputStream.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIInputStream.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASINetworkQueue.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASINetworkQueue.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/Reachability.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/Reachability.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIWebPageRequest.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIWebPageRequest.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIAuthenticationDialog.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIAuthenticationDialog.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDataCompressor.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataCompressor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDataDecompressor.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataDecompressor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDownloadCache.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDownloadCache.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIFormDataRequest.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIFormDataRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIHTTPRequest.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIHTTPRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIInputStream.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIInputStream.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASINetworkQueue.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASINetworkQueue.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/Reachability.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/Reachability.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIWebPageRequest.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIWebPageRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/libasi-http-request.a normal armv6
+cLibtool /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/libasi-http-request.a normal armv7
+cCreateUniversalBinary /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/libasi-http-request.a normal "i386 armv6 armv7"
+cCpHeader ASIAuthenticationDialog.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIAuthenticationDialog.h
+cCpHeader ASICacheDelegate.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASICacheDelegate.h
+cCpHeader ASIDataCompressor.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIDataCompressor.h
+cCpHeader ASIDataDecompressor.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIDataDecompressor.h
+cCpHeader ASIDownloadCache.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIDownloadCache.h
+cCpHeader ASIFormDataRequest.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIFormDataRequest.h
+cCpHeader ASIHTTPRequest.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIHTTPRequest.h
+cCpHeader ASIHTTPRequestConfig.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIHTTPRequestConfig.h
+cCpHeader ASIHTTPRequestDelegate.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIHTTPRequestDelegate.h
+cCpHeader ASIInputStream.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIInputStream.h
+cCpHeader ASIProgressDelegate.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIProgressDelegate.h
+cCpHeader ASINetworkQueue.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASINetworkQueue.h
+cCpHeader Reachability.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/Reachability.h
+cCpHeader ASIWebPageRequest.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIWebPageRequest.h
+cPhaseScriptExecution "Run Script" /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Script-03B3912E14D99BED0026DF4F.sh
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk
+c000000004E7840290000000000000110
+t1316503593
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004E72F307000000000032AC00
+t1316156167
+s3320832
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F28700000000003AB0A0
+t1316156039
+s3846304
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F3440000000000529540
+t1316156228
+s5412160
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004E72F558000000000006E530
+t1316156760
+s451888
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004E72F29300000000000C33E0
+t1316156051
+s799712
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/HTMLparser.h
+c000000004E72F2400000000000002401
+t1316155968
+s9217
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/SAX.h
+c000000004E72F240000000000000113C
+t1316155968
+s4412
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/SAX2.h
+c000000004E72F2410000000000001350
+t1316155969
+s4944
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/dict.h
+c000000004E72F241000000000000062E
+t1316155969
+s1582
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/encoding.h
+c000000004E72F24000000000000021D4
+t1316155968
+s8660
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/entities.h
+c000000004E72F2400000000000001240
+t1316155968
+s4672
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/globals.h
+c000000004E72F241000000000000381B
+t1316155969
+s14363
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/hash.h
+c000000004E72F24000000000000019A7
+t1316155968
+s6567
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/list.h
+c000000004E72F2400000000000000D5E
+t1316155968
+s3422
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/parser.h
+c000000004E72F24000000000000098A9
+t1316155968
+s39081
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/threads.h
+c000000004E72F241000000000000073C
+t1316155969
+s1852
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/tree.h
+c000000004E72F2400000000000008F14
+t1316155968
+s36628
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/valid.h
+c000000004E72F24100000000000035F6
+t1316155969
+s13814
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/xlink.h
+c000000004E72F24100000000000013BB
+t1316155969
+s5051
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/xmlIO.h
+c000000004E72F24100000000000028D0
+t1316155969
+s10448
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/xmlautomata.h
+c000000004E72F2410000000000000F98
+t1316155969
+s3992
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/xmlerror.h
+c000000004E72F2400000000000008F38
+t1316155968
+s36664
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/xmlexports.h
+c000000004E72F2410000000000000E77
+t1316155969
+s3703
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/xmlmemory.h
+c000000004E72F2410000000000001754
+t1316155969
+s5972
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/xmlregexp.h
+c000000004E72F2410000000000001552
+t1316155969
+s5458
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/xmlsave.h
+c000000004E72F24100000000000008D4
+t1316155969
+s2260
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/xmlstring.h
+c000000004E72F241000000000000155A
+t1316155969
+s5466
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/xmlversion.h
+c000000004E72F2410000000000001E27
+t1316155969
+s7719
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/xpath.h
+c000000004E72F2400000000000003F47
+t1316155968
+s16199
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c000000004E72F2400000000000004BF8
+t1316155968
+s19448
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/lib/libxml2.dylib
+c000000004E72F24100000000001F2D30
+t1316155969
+s2043184
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/lib/libz.dylib
+c000000004E72EB4000000000000240F0
+t1316154176
+s147696
+
+N/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/libasi-http-request.a
+t1331049291
+s1797368
+
+N/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIAuthenticationDialog.h
+t1328112914
+s1107
+
+N/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASICacheDelegate.h
+t1328112914
+s5151
+
+N/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIDataCompressor.h
+t1328112914
+s1836
+
+N/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIDataDecompressor.h
+t1328112914
+s1699
+
+N/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIDownloadCache.h
+t1328112914
+s1996
+
+N/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIFormDataRequest.h
+t1328112914
+s2693
+
+N/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIHTTPRequest.h
+t1328112914
+s45033
+
+N/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIHTTPRequestConfig.h
+t1328112914
+s1297
+
+N/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIHTTPRequestDelegate.h
+t1328112914
+s1598
+
+N/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIInputStream.h
+t1328112914
+s969
+
+N/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASINetworkQueue.h
+t1328112914
+s4621
+
+N/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIProgressDelegate.h
+t1328112914
+s1656
+
+N/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIWebPageRequest.h
+t1328112914
+s3673
+
+N/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/Reachability.h
+t1328112914
+s7461
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIAuthenticationDialog.h
+c000000004F201F6F0000000000000453
+t1327505263
+s1107
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIAuthenticationDialog.m
+c000000004F201F6F0000000000003F4A
+t1327505263
+s16202
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASICacheDelegate.h
+c000000004F201F6F000000000000141F
+t1327505263
+s5151
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataCompressor.h
+c000000004F201F6F000000000000072C
+t1327505263
+s1836
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataCompressor.m
+c000000004F201F6F0000000000001A63
+t1327505263
+s6755
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataDecompressor.h
+c000000004F201F6F00000000000006A3
+t1327505263
+s1699
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataDecompressor.m
+c000000004F201F6F0000000000001916
+t1327505263
+s6422
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDownloadCache.h
+c000000004F201F6F00000000000007CC
+t1327505263
+s1996
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDownloadCache.m
+c000000004F201F6F0000000000004561
+t1327505263
+s17761
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIFormDataRequest.h
+c000000004F201F6F0000000000000A85
+t1327505263
+s2693
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIFormDataRequest.m
+c000000004F201F6F0000000000002C02
+t1327505263
+s11266
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIHTTPRequest.h
+c000000004F201F6F000000000000AFE9
+t1327505263
+s45033
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIHTTPRequest.m
+c000000004F201F6F000000000002D115
+t1327505263
+s184597
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIHTTPRequestConfig.h
+c000000004F201F6F0000000000000511
+t1327505263
+s1297
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIHTTPRequestDelegate.h
+c000000004F201F6F000000000000063E
+t1327505263
+s1598
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIInputStream.h
+c000000004F201F6F00000000000003C9
+t1327505263
+s969
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIInputStream.m
+c000000004F201F6F0000000000000C32
+t1327505263
+s3122
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASINetworkQueue.h
+c000000004F201F6F000000000000120D
+t1327505263
+s4621
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASINetworkQueue.m
+c000000004F201F6F0000000000002C8D
+t1327505263
+s11405
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIProgressDelegate.h
+c000000004F201F6F0000000000000678
+t1327505263
+s1656
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIWebPageRequest.h
+c000000004F201F6F0000000000000E59
+t1327505263
+s3673
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIWebPageRequest.m
+c000000004F201F6F0000000000007B06
+t1327505263
+s31494
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/Reachability.h
+c000000004F201F6F0000000000001D25
+t1327505263
+s7461
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/Reachability.m
+c000000004F201F6F0000000000005E0C
+t1327505263
+s24076
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/asi-http-request/asi-http-request-Prefix.pch
+c000000004F20566500000000000000AD
+t1327519333
+s173
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIAuthenticationDialog.o
+t1331049289
+s102688
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDataCompressor.o
+t1331049289
+s18496
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDataDecompressor.o
+t1331049289
+s18448
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDownloadCache.o
+t1331049289
+s58836
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIFormDataRequest.o
+t1331049289
+s45968
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIHTTPRequest.o
+t1331049290
+s422608
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIInputStream.o
+t1331049289
+s29232
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASINetworkQueue.o
+t1331049290
+s59248
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIWebPageRequest.o
+t1331049290
+s85832
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/Reachability.o
+t1331049289
+s29264
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/asi-http-request.LinkFileList
+c000000004F29675900000000000006DB
+t1328113497
+s1755
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/libasi-http-request.a
+t1331049290
+s884200
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIAuthenticationDialog.o
+t1331049289
+s104172
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDataCompressor.o
+t1331049289
+s19336
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDataDecompressor.o
+t1331049289
+s19288
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDownloadCache.o
+t1331049289
+s60552
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIFormDataRequest.o
+t1331049290
+s47040
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIHTTPRequest.o
+t1331049291
+s442456
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIInputStream.o
+t1331049290
+s28864
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASINetworkQueue.o
+t1331049290
+s59520
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIWebPageRequest.o
+t1331049290
+s87956
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/Reachability.o
+t1331049290
+s30348
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/asi-http-request.LinkFileList
+c000000004F29675900000000000006DB
+t1328113497
+s1755
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/libasi-http-request.a
+t1331049291
+s913120
+
+N/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Script-03B3912E14D99BED0026DF4F.sh
+c000000004F2967590000000000001301
+t1328113497
+s4865
+
+N/var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-dddhjvyvqbkzdbapymtlzhfkjmsn/asi-http-request-Prefix.pch.pth
+t1331049289
+s2325908
+
+N/var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-djhmvnpkshqvqlhbjpkzpfzpzltr/asi-http-request-Prefix.pch.pth
+t1328113497
+s2325736
+
+N/var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-eezhipdxrdcccdbwcxflnkumnkqn/asi-http-request-Prefix.pch.pth
+t1328113497
+s2325908
+
+N/var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-giduvcwpgpwaoearziwsvmuqpeoq/asi-http-request-Prefix.pch.pth
+t1331049289
+s2325736
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb7d548117006b541^dae266117006b541^-1235"[WARN]warning: no rule to process file '$(PROJECT_DIR)/ASIAuthenticationDialog.m' of type sourcecode.c.objc for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/ASIDataCompressor.m' of type sourcecode.c.objc for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/ASIDataDecompressor.m' of type sourcecode.c.objc for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/ASIDownloadCache.m' of type sourcecode.c.objc for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/ASIFormDataRequest.m' of type sourcecode.c.objc for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/ASIHTTPRequest.m' of type sourcecode.c.objc for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/ASIInputStream.m' of type sourcecode.c.objc for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/ASINetworkQueue.m' of type sourcecode.c.objc for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/Reachability.m' of type sourcecode.c.objc for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/ASIWebPageRequest.m' of type sourcecode.c.objc for architecture i38610(21%IDEActivityLogMessage2@123"warning: no rule to process file '$(PROJECT_DIR)/ASIAuthenticationDialog.m' of type sourcecode.c.objc for architecture i386-352743441#18446744073709551615#0#-1#-----2@117"warning: no rule to process file '$(PROJECT_DIR)/ASIDataCompressor.m' of type sourcecode.c.objc for architecture i386-352743441#18446744073709551615#0#-1#-----2@119"warning: no rule to process file '$(PROJECT_DIR)/ASIDataDecompressor.m' of type sourcecode.c.objc for architecture i386-352743441#18446744073709551615#0#-1#-----2@116"warning: no rule to process file '$(PROJECT_DIR)/ASIDownloadCache.m' of type sourcecode.c.objc for architecture i386-352743441#18446744073709551615#0#-1#-----2@118"warning: no rule to process file '$(PROJECT_DIR)/ASIFormDataRequest.m' of type sourcecode.c.objc for architecture i386-352743441#18446744073709551615#0#-1#-----2@114"warning: no rule to process file '$(PROJECT_DIR)/ASIHTTPRequest.m' of type sourcecode.c.objc for architecture i386-352743441#18446744073709551615#0#-1#-----2@114"warning: no rule to process file '$(PROJECT_DIR)/ASIInputStream.m' of type sourcecode.c.objc for architecture i386-352743441#18446744073709551615#0#-1#-----2@115"warning: no rule to process file '$(PROJECT_DIR)/ASINetworkQueue.m' of type sourcecode.c.objc for architecture i386-352743441#18446744073709551615#0#-1#-----2@112"warning: no rule to process file '$(PROJECT_DIR)/Reachability.m' of type sourcecode.c.objc for architecture i386-352743441#18446744073709551615#0#-1#-----2@117"warning: no rule to process file '$(PROJECT_DIR)/ASIWebPageRequest.m' of type sourcecode.c.objc for architecture i386-352743441#18446744073709551615#0#-1#-----0#1#0#--18"Check dependencies36"DEEBC7A0-7CAE-4B76-A77B-E07A842C2B80-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIAuthenticationDialog.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIAuthenticationDialog.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742089.305775
+e352742089.672113
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIAuthenticationDialog.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIAuthenticationDialog.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIAuthenticationDialog.me97e4ec96a06b541^611cacc96a06b541^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIAuthenticationDialog.m0000000000000000^3394"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIAuthenticationDialog.o ASIAuthenticationDialog.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv6 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv6 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-giduvcwpgpwaoearziwsvmuqpeoq/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIAuthenticationDialog.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIAuthenticationDialog.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIAuthenticationDialog.o36"F79C6573-293C-4E10-B1C1-01263D26DA56-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDataCompressor.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataCompressor.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742089.309218
+e352742089.453873
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDataCompressor.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataCompressor.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataCompressor.m755a4fc96a06b541^053174c96a06b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataCompressor.m0000000000000000^3364"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDataCompressor.o ASIDataCompressor.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv6 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv6 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-giduvcwpgpwaoearziwsvmuqpeoq/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDataCompressor.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataCompressor.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDataCompressor.o36"A42A4614-0B75-4395-86F9-8C8FDD36B6AF-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDataDecompressor.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataDecompressor.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742089.455108
+e352742089.600212
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDataDecompressor.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataDecompressor.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataDecompressor.m20b674c96a06b541^a0a799c96a06b541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataDecompressor.m0000000000000000^3374"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDataDecompressor.o ASIDataDecompressor.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv6 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv6 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-giduvcwpgpwaoearziwsvmuqpeoq/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDataDecompressor.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataDecompressor.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDataDecompressor.o36"B8635B7A-0B67-4CB0-AD8C-C48845D9809D-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDownloadCache.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDownloadCache.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742089.477752
+e352742089.751956
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDownloadCache.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDownloadCache.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDownloadCache.m7d077bc96a06b541^7429c2c96a06b541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDownloadCache.m0000000000000000^3359"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDownloadCache.o ASIDownloadCache.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv6 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv6 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-giduvcwpgpwaoearziwsvmuqpeoq/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDownloadCache.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDownloadCache.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIDownloadCache.o36"EF45DE84-5663-446D-B412-9E7FBCA09A36-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIFormDataRequest.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIFormDataRequest.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742089.522885
+e352742089.821365
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIFormDataRequest.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIFormDataRequest.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIFormDataRequest.m5e0f86c96a06b541^7633ffc96a06b541^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIFormDataRequest.m0000000000000000^3369"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIFormDataRequest.o ASIFormDataRequest.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv6 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv6 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-giduvcwpgpwaoearziwsvmuqpeoq/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIFormDataRequest.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIFormDataRequest.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIFormDataRequest.o36"D82FB839-217D-433B-BB99-2904F8E004B7-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIHTTPRequest.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIHTTPRequest.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742089.601481
+e352742090.885931
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIHTTPRequest.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIHTTPRequest.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIHTTPRequest.m3c2e9ac96a06b541^d1cde2ca6a06b541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIHTTPRequest.m0000000000000000^3349"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIHTTPRequest.o ASIHTTPRequest.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv6 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv6 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-giduvcwpgpwaoearziwsvmuqpeoq/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIHTTPRequest.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIHTTPRequest.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIHTTPRequest.o36"8C6CB78C-A236-47B1-8323-694DDA1FABAD-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIInputStream.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIInputStream.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742089.673713
+e352742089.859321
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIInputStream.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIInputStream.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIInputStream.m47adacc96a06b541^153affc96a06b541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIInputStream.m0000000000000000^3349"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIInputStream.o ASIInputStream.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv6 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv6 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-giduvcwpgpwaoearziwsvmuqpeoq/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIInputStream.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIInputStream.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIInputStream.o36"C1109E0E-6CCB-4410-9BE9-37C6FEDB5B69-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASINetworkQueue.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASINetworkQueue.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742089.759764
+e352742090.071380
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASINetworkQueue.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASINetworkQueue.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASINetworkQueue.m0fb4c2c96a06b541^174612ca6a06b541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASINetworkQueue.m0000000000000000^3354"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASINetworkQueue.o ASINetworkQueue.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv6 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv6 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-giduvcwpgpwaoearziwsvmuqpeoq/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASINetworkQueue.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASINetworkQueue.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASINetworkQueue.o36"A7BF66FD-FF5A-431F-B632-0EA7BA8AB9E9-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIWebPageRequest.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIWebPageRequest.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742089.860581
+e352742090.302227
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIWebPageRequest.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIWebPageRequest.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIWebPageRequest.m8c82dcc96a06b541^f25e4dca6a06b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIWebPageRequest.m0000000000000000^3364"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIWebPageRequest.o ASIWebPageRequest.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv6 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv6 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-giduvcwpgpwaoearziwsvmuqpeoq/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIWebPageRequest.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIWebPageRequest.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/ASIWebPageRequest.o36"A38403DC-7107-42C0-97F2-B33C508861EA-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/Reachability.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/Reachability.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742089.822613
+e352742089.962823
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/Reachability.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/Reachability.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/Reachability.m58cad2c96a06b541^143effc96a06b541^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/Reachability.m0000000000000000^3339"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/Reachability.o Reachability.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv6 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv6 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-giduvcwpgpwaoearziwsvmuqpeoq/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/Reachability.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/Reachability.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/Reachability.o36"285677E6-AF78-4C20-899B-03265537DC52-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIAuthenticationDialog.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIAuthenticationDialog.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742089.153901
+e352742089.521662
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIAuthenticationDialog.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIAuthenticationDialog.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIAuthenticationDialog.me6ac27c96a06b541^a48b85c96a06b541^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIAuthenticationDialog.m0000000000000000^3394"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIAuthenticationDialog.o ASIAuthenticationDialog.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv7 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-dddhjvyvqbkzdbapymtlzhfkjmsn/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIAuthenticationDialog.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIAuthenticationDialog.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIAuthenticationDialog.o36"2EE964A5-7D43-4EC4-A8F8-6DE311787C08-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDataCompressor.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataCompressor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742089.153922
+e352742089.304520
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDataCompressor.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataCompressor.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataCompressor.meaaf27c96a06b541^1c604ec96a06b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataCompressor.m0000000000000000^3364"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDataCompressor.o ASIDataCompressor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv7 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-dddhjvyvqbkzdbapymtlzhfkjmsn/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDataCompressor.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataCompressor.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDataCompressor.o36"8715584A-2874-40E1-88D8-8DE4BB3FED7F-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDataDecompressor.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataDecompressor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742089.154532
+e352742089.308098
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDataDecompressor.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataDecompressor.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataDecompressor.md2c427c96a06b541^8ae54ec96a06b541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataDecompressor.m0000000000000000^3374"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDataDecompressor.o ASIDataDecompressor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv7 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-dddhjvyvqbkzdbapymtlzhfkjmsn/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDataDecompressor.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDataDecompressor.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDataDecompressor.o36"73AB1DBF-1074-435A-B092-5B1C70266B1C-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDownloadCache.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDownloadCache.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742089.154548
+e352742089.473979
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDownloadCache.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDownloadCache.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDownloadCache.m5dc427c96a06b541^1fb979c96a06b541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDownloadCache.m0000000000000000^3359"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDownloadCache.o ASIDownloadCache.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv7 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-dddhjvyvqbkzdbapymtlzhfkjmsn/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDownloadCache.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIDownloadCache.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIDownloadCache.o36"AFA7AD86-160F-4751-BE3F-F63E10B16B3C-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIFormDataRequest.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIFormDataRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742089.974991
+e352742090.195410
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIFormDataRequest.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIFormDataRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIFormDataRequest.m47cbf9c96a06b541^730e32ca6a06b541^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIFormDataRequest.m0000000000000000^3369"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIFormDataRequest.o ASIFormDataRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv7 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-dddhjvyvqbkzdbapymtlzhfkjmsn/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIFormDataRequest.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIFormDataRequest.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIFormDataRequest.o36"D6A2907F-AB89-4BC2-B88F-0D0B0ED826B5-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIHTTPRequest.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIHTTPRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742090.072627
+e352742091.259904
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIHTTPRequest.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIHTTPRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIHTTPRequest.mdacb12ca6a06b541^c68587cb6a06b541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIHTTPRequest.m0000000000000000^3349"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIHTTPRequest.o ASIHTTPRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv7 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-dddhjvyvqbkzdbapymtlzhfkjmsn/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIHTTPRequest.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIHTTPRequest.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIHTTPRequest.o36"BCC70B08-C635-4877-9457-63FD4810DEB8-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIInputStream.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIInputStream.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742090.203807
+e352742090.396572
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIInputStream.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIInputStream.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIInputStream.m896034ca6a06b541^9d8565ca6a06b541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIInputStream.m0000000000000000^3349"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIInputStream.o ASIInputStream.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv7 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-dddhjvyvqbkzdbapymtlzhfkjmsn/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIInputStream.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIInputStream.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIInputStream.o36"A8B83F0A-8DEE-49D5-A0D8-342B40DC3855-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASINetworkQueue.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASINetworkQueue.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742090.303484
+e352742090.579601
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASINetworkQueue.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASINetworkQueue.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASINetworkQueue.ma4e44dca6a06b541^026494ca6a06b541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASINetworkQueue.m0000000000000000^3354"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASINetworkQueue.o ASINetworkQueue.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv7 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-dddhjvyvqbkzdbapymtlzhfkjmsn/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASINetworkQueue.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASINetworkQueue.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASINetworkQueue.o36"F8EFBF2A-2EF7-42FD-903C-DB1527E36E97-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIWebPageRequest.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIWebPageRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742090.580898
+e352742090.935988
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIWebPageRequest.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIWebPageRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIWebPageRequest.m10e894ca6a06b541^5f7e87cb6a06b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIWebPageRequest.m0000000000000000^3364"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIWebPageRequest.o ASIWebPageRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv7 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-dddhjvyvqbkzdbapymtlzhfkjmsn/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIWebPageRequest.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/ASIWebPageRequest.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/ASIWebPageRequest.o36"5F7789AB-EE62-4D2D-8FB2-CA73414DDC11-
+
+CCompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/Reachability.o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/Reachability.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742090.397809
+e352742090.579558
+r1
+xCompileC
+xbuild/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/Reachability.o
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/Reachability.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/Reachability.mdd0966ca6a06b541^ff5c94ca6a06b541^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/Reachability.m0000000000000000^3339"CompileC build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/Reachability.o Reachability.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv7 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -include /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-dddhjvyvqbkzdbapymtlzhfkjmsn/asi-http-request-Prefix.pch -MMD -MT dependencies -MF /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/Reachability.d -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/Reachability.m -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/Reachability.o36"3F7E75F9-5808-4A4F-AC45-39D9D6DA6862-
+
+CCpHeader ASIAuthenticationDialog.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIAuthenticationDialog.h
+r0
+
+CCpHeader ASICacheDelegate.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASICacheDelegate.h
+r0
+
+CCpHeader ASIDataCompressor.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIDataCompressor.h
+r0
+
+CCpHeader ASIDataDecompressor.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIDataDecompressor.h
+r0
+
+CCpHeader ASIDownloadCache.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIDownloadCache.h
+r0
+
+CCpHeader ASIFormDataRequest.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIFormDataRequest.h
+r0
+
+CCpHeader ASIHTTPRequest.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIHTTPRequest.h
+r0
+
+CCpHeader ASIHTTPRequestConfig.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIHTTPRequestConfig.h
+r0
+
+CCpHeader ASIHTTPRequestDelegate.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIHTTPRequestDelegate.h
+r0
+
+CCpHeader ASIInputStream.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIInputStream.h
+r0
+
+CCpHeader ASINetworkQueue.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASINetworkQueue.h
+r0
+
+CCpHeader ASIProgressDelegate.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIProgressDelegate.h
+r0
+
+CCpHeader ASIWebPageRequest.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/ASIWebPageRequest.h
+r0
+
+CCpHeader Reachability.h /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/usr/local/include/Reachability.h
+r0
+
+CCreateUniversalBinary /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/libasi-http-request.a normal "i386 armv6 armv7"
+s352742091.317519
+e352742091.356748
+r1
+xCreateUniversalBinary
+x/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/libasi-http-request.a
+xnormal
+xi386 armv6 armv7
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection172"Create universal binary /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/libasi-http-request.a007351cb6a06b541^9f9287cb6a06b541^---0#0#0#-19%DVTDocumentLocation2@164"file://localhost/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/libasi-http-request.a0000000000000000^1126"CreateUniversalBinary /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/libasi-http-request.a normal "i386 armv6 armv7"    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/libasi-http-request.a /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/libasi-http-request.a -o /Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/libasi-http-request.a36"5478EF01-B155-4063-BF0B-BE190CFB550C-
+
+CLibtool /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/libasi-http-request.a normal armv6
+s352742090.892875
+e352742090.967489
+r1
+xLibtool
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/libasi-http-request.a
+xnormal
+xarmv6
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/lib/libxml2.dylib is a dynamic library, not added to the static library
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/lib/libxml2.dylib is a dynamic library, not added to the static library
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Libtool build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/libasi-http-request.a normal armv687c1e4ca6a06b541^b28287cb6a06b541^---0#0#0#--1514"Libtool build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/libasi-http-request.a normal armv6    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv6 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -L/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -filelist /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/asi-http-request.LinkFileList -ObjC /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/lib/libxml2.dylib /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/lib/libz.dylib -framework CoreGraphics -framework MobileCoreServices -framework SystemConfiguration -framework CFNetwork -framework Foundation -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv6/libasi-http-request.a36"4BF495A4-B02E-45CC-8324-098BADCFD250-
+
+CLibtool /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/libasi-http-request.a normal armv7
+s352742091.267099
+e352742091.310769
+r1
+xLibtool
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/libasi-http-request.a
+xnormal
+xarmv7
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/lib/libxml2.dylib is a dynamic library, not added to the static library
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/lib/libxml2.dylib is a dynamic library, not added to the static library
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Libtool build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/libasi-http-request.a normal armv7158e44cb6a06b541^d28e87cb6a06b541^---0#0#0#--1514"Libtool build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/libasi-http-request.a normal armv7    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv7 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -L/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -filelist /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/asi-http-request.LinkFileList -ObjC /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/lib/libxml2.dylib /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/lib/libz.dylib -framework CoreGraphics -framework MobileCoreServices -framework SystemConfiguration -framework CFNetwork -framework Foundation -o /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Objects-normal/armv7/libasi-http-request.a36"C8E4AC3B-4976-4797-B59C-A3BB326DC3F8-
+
+CPhaseScriptExecution "Run Script" /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Script-03B3912E14D99BED0026DF4F.sh
+s352743441.461377
+e352743441.478823
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Script-03B3912E14D99BED0026DF4F.sh
+oXCode has selected SDK: iphoneos with version: 5.0 (although back-targetting: 5.0)
+o...therefore, OTHER_SDK_TO_BUILD = iphonesimulator5.0
+oRECURSION: I am NOT the root invocation, so I'm NOT going to recurse
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'4d9e76117006b541^7d937a117006b541^-206"XCode has selected SDK: iphoneos with version: 5.0 (although back-targetting: 5.0)...therefore, OTHER_SDK_TO_BUILD = iphonesimulator5.0RECURSION: I am NOT the root invocation, so I'm NOT going to recurse3(21%IDEActivityLogMessage2@83"XCode has selected SDK: iphoneos with version: 5.0 (although back-targetting: 5.0)-352743441#0#83#-0#-----2@54"...therefore, OTHER_SDK_TO_BUILD = iphonesimulator5.0-352743441#83#54#-0#-----2@69"RECURSION: I am NOT the root invocation, so I'm NOT going to recurse-352743441#137#69#-0#-----0#0#0#--396"PhaseScriptExecution "Run Script" build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Script-03B3912E14D99BED0026DF4F.sh    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    /bin/sh -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/Script-03B3912E14D99BED0026DF4F.sh36"318FF1B8-8A9B-4F4F-BE63-A57CF851AB1C-
+
+CProcessPCH /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-dddhjvyvqbkzdbapymtlzhfkjmsn/asi-http-request-Prefix.pch.pth asi-http-request/asi-http-request-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742088.997345
+e352742089.147297
+r1
+xProcessPCH
+x/var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-dddhjvyvqbkzdbapymtlzhfkjmsn/asi-http-request-Prefix.pch.pth
+xasi-http-request/asi-http-request-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile asi-http-request/asi-http-request-Prefix.pch2593ffc86a06b541^ddb425c96a06b541^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/asi-http-request/asi-http-request-Prefix.pch0000000000000000^3326"ProcessPCH /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-dddhjvyvqbkzdbapymtlzhfkjmsn/asi-http-request-Prefix.pch.pth asi-http-request/asi-http-request-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv7 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/asi-http-request/asi-http-request-Prefix.pch -o /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-dddhjvyvqbkzdbapymtlzhfkjmsn/asi-http-request-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-dddhjvyvqbkzdbapymtlzhfkjmsn/asi-http-request-Prefix.pch.d36"EAB44662-5C6B-4134-ADA3-E4DFBD152D7E-
+
+CProcessPCH /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-djhmvnpkshqvqlhbjpkzpfzpzltr/asi-http-request-Prefix.pch.pth asi-http-request/asi-http-request-Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349806297.515325
+e349806297.625682
+r1
+xProcessPCH
+x/var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-djhmvnpkshqvqlhbjpkzpfzpzltr/asi-http-request-Prefix.pch.pth
+xasi-http-request/asi-http-request-Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile asi-http-request/asi-http-request-Prefix.pch832f84d99ed9b441^1635a0d99ed9b441^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/asi-http-request/asi-http-request-Prefix.pch0000000000000000^3326"ProcessPCH /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-djhmvnpkshqvqlhbjpkzpfzpzltr/asi-http-request-Prefix.pch.pth asi-http-request/asi-http-request-Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c-header -arch armv6 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv6 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/asi-http-request/asi-http-request-Prefix.pch -o /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-djhmvnpkshqvqlhbjpkzpfzpzltr/asi-http-request-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-djhmvnpkshqvqlhbjpkzpfzpzltr/asi-http-request-Prefix.pch.d36"5B82937A-147D-44EE-A3E3-3768699EFEA1-
+
+CProcessPCH /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-eezhipdxrdcccdbwcxflnkumnkqn/asi-http-request-Prefix.pch.pth asi-http-request/asi-http-request-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349806297.515328
+e349806297.625679
+r1
+xProcessPCH
+x/var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-eezhipdxrdcccdbwcxflnkumnkqn/asi-http-request-Prefix.pch.pth
+xasi-http-request/asi-http-request-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile asi-http-request/asi-http-request-Prefix.pch512f84d99ed9b441^0f2ba0d99ed9b441^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/asi-http-request/asi-http-request-Prefix.pch0000000000000000^3326"ProcessPCH /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-eezhipdxrdcccdbwcxflnkumnkqn/asi-http-request-Prefix.pch.pth asi-http-request/asi-http-request-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv7 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/asi-http-request/asi-http-request-Prefix.pch -o /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-eezhipdxrdcccdbwcxflnkumnkqn/asi-http-request-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-eezhipdxrdcccdbwcxflnkumnkqn/asi-http-request-Prefix.pch.d36"6DE0A12D-34F9-4567-8109-B494D0CFCF17-
+
+CProcessPCH /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-giduvcwpgpwaoearziwsvmuqpeoq/asi-http-request-Prefix.pch.pth asi-http-request/asi-http-request-Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352742088.997343
+e352742089.149005
+r1
+xProcessPCH
+x/var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-giduvcwpgpwaoearziwsvmuqpeoq/asi-http-request-Prefix.pch.pth
+xasi-http-request/asi-http-request-Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile asi-http-request/asi-http-request-Prefix.pch3693ffc86a06b541^422526c96a06b541^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/asi-http-request/asi-http-request-Prefix.pch0000000000000000^3326"ProcessPCH /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-giduvcwpgpwaoearziwsvmuqpeoq/asi-http-request-Prefix.pch.pth asi-http-request/asi-http-request-Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c-header -arch armv6 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -fobjc-abi-version=2 "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-generated-files.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-own-target-headers.hmap -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-all-target-headers.hmap -iquote /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/asi-http-request-project-headers.hmap -I/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources/armv6 -I/Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/build/asi-http-request.build/Debug-iphoneos/asi-http-request.build/DerivedSources -F/Users/edwgon1/Library/Developer/Xcode/DerivedData/asi-http-request-eqgkspaffrojobetbnvdqptasoff/Build/Products/Debug-iphoneos -c /Users/edwgon1/Projects/asi-http-request-staticlib/asi-http-request/asi-http-request/asi-http-request-Prefix.pch -o /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-giduvcwpgpwaoearziwsvmuqpeoq/asi-http-request-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/3k/djdbs2wn3ql068q9vk4g10prf9p5ng/C/com.apple.Xcode.479925935/SharedPrecompiledHeaders/asi-http-request-Prefix-giduvcwpgpwaoearziwsvmuqpeoq/asi-http-request-Prefix.pch.d36"44F3688D-E6B2-4180-8ECE-C3A451042091-
+
